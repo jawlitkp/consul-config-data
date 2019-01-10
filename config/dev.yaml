@@ -5,6 +5,6 @@ ENVIRONMENT: TEST01
 GLOBALCONFIG: /home/jenkins/global-config/data/
 HIERAFILE: /home/jenkins/global-config/hiera.yaml
 LOG_FILE_RETENTION: '22222'
-NEW _KEY: Hello!!!
-NODE: jenkins-slave-hsbp1-ltw6k
+NEW_KEY: Hello!!!
+NODE: jenkins-slave-58fzc-xs0t6
 REGION: None
