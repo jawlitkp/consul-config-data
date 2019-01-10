@@ -5,6 +5,6 @@ ENVIRONMENT: TEST01
 GLOBALCONFIG: /Users/jp0003/Documents/devops/global-config/data/
 HIERAFILE: /Users/jp0003/Documents/devops/global-config/hiera.yaml
 LOG_FILE_RETENTION: '22222'
-NEW_KEY: Hello!!!
+NEW_KEY: Hello world!!!
 NODE: ml0990-0000012
 REGION: None
